@@ -1,0 +1,19 @@
+/* extra large - desktop */
+.hp-links {
+  margin-top: 0em;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.hp-tips{
+  display: flex;
+  gap: 1em;
+}
+
+.slider__textbox{
+  bottom: 2em;
+}
+
+.hp-links{
+  flex-basis: calc(100%/2 - 5px); ;
+}
